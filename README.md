@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my_learnC**
 
-- 🌱 I’m currently learning **C, C++ and Python.**
+- 🌱 I’m currently learning **C, C++ and Rust.**
 
 - 📫 How to reach me ? **mouhameddouina1104@gmail.com**
 
