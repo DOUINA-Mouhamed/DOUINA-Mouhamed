@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DOUINA Mouhamed !</h1>
 <h3 align="center">A passionate scholar at {EPITECH}</h3>
 
-- 🔭 I’m currently working on **my_learnC**
+- 🔭 I’m currently working on **my internship**.
 
-- 🌱 I’m currently learning **C, C++ and Rust.**
+- 🌱 I’m currently learning **C, C++ Rust and Dart.**
 
-- 📫 How to reach me ? **mouhameddouina1104@gmail.com**
+- 📫 How to reach me ? **mouhamed.douina@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
