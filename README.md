@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DOUINA Mouhamed !</h1>
 <h3 align="center">A passionate scholar at {EPITECH}</h3>
 
-- 🔭 I’m currently working on **my internship**.
+- 🔭 Working on **my internship**.
 
 - 🌱 I’m currently learning **C, C++ Rust and Dart.**
 
