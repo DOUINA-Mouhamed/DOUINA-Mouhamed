@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
   update-readme:
@@ -16,7 +16,7 @@ jobs:
 
       - name: Generate Stats and Update README
         env:
-          REPO_INFO: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           # Replace placeholders in README with actual token
           sed -i "s/YOUR_PERSONAL_ACCESS_TOKEN/$GH_PAT/g" README.md
@@ -25,7 +25,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git pull
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
