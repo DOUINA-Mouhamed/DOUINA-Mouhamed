@@ -27,7 +27,11 @@
     </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats-bk18.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed)
+<div align="center">
+    <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-bk18.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=douina-mouhamed" alt="GitHub Trophies" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=douina-mouhamed&theme=github" alt="GitHub Activity Graph" />
+</div>
 
