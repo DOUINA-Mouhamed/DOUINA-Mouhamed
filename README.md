@@ -30,8 +30,8 @@
     </a> 
 </p>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douina-mouhamed&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Commit Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douina-mouhamed&theme=default&utcOffset=8&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douina-mouhamed&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=douina-mouhamed&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douina-mouhamed&theme=default&access_token=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)
+![Commit Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douina-mouhamed&theme=default&utcOffset=8&access_token=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)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douina-mouhamed&theme=default&access_token=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)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=douina-mouhamed&theme=default&access_token=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)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed&)
