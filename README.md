@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mouhamed douina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamed douina" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/douina mouhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="douina mouhamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mouhamed-douina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamed douina" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/douina-mouhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="douina mouhamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +31,7 @@
 </p>
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douina-mouhamed&theme=default)
+![Commit Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douina-mouhamed&theme=default&utcOffset=8)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douina-mouhamed&theme=default)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=douina-mouhamed&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed&)
-
