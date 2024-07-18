@@ -27,6 +27,6 @@
     </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5&access_token=)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed)
