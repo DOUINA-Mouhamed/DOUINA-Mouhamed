@@ -33,28 +33,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
 </div>
 
-<h3 align="left">📈 My GitHub Activity</h3>
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=douina-mouhamed&theme=github" alt="GitHub Activity Graph" />
-</p>
-
-<h3 align="left">📝 Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](https://linktoblogpost.com)
-- [Another Blog Post](https://linktoblogpost.com)
-- [Yet Another Blog Post](https://linktoblogpost.com)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">🎮 What I'm currently playing</h3>
-<p align="left">
-    <a href="https://linktoyourgameprofile.com" target="_blank">
-        <img src="https://img.shields.io/badge/Playing-Game%20Title-blue?style=flat&logo=steam" alt="Playing Game" />
-    </a>
-</p>
-
-<h3 align="left">💬 Get in touch</h3>
-<p align="left">
-    Feel free to reach out to me for collaborations or just for a chat about technology, gaming, or cars.
-</p>
-
-
