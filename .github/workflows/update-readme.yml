@@ -16,10 +16,10 @@ jobs:
 
       - name: Generate Stats and Update README
         env:
-          REPO_INFO: ${{ secrets.REPO_INFO }}
+          REPO_INFO: ${{ secrets.GH_PAT }}
         run: |
           # Replace placeholders in README with actual token
-          sed -i "s/YOUR_PERSONAL_ACCESS_TOKEN/$REPO_INFO/g" README.md
+          sed -i "s/YOUR_PERSONAL_ACCESS_TOKEN/$GH_PAT/g" README.md
 
       - name: Commit and Push Changes
         env:
