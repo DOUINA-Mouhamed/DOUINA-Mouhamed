@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 * * * *'
 
 jobs:
   update-readme:
@@ -30,4 +30,3 @@ jobs:
           git add README.md
           git commit -m 'Update README with latest stats'
           git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-
