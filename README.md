@@ -30,6 +30,7 @@
     </a> 
 </p>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douina-mouhamed&theme=default)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douina-mouhamed&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed&)
+
