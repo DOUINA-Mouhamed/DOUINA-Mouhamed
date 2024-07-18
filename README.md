@@ -30,9 +30,9 @@
     </a> 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Commit Summary](https://github-readme-stats.vercel.app/api/wakatime?username=douina-mouhamed&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=YOUR_PERSONAL_ACCESS_TOKEN&langs_count=5)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=YOUR_PERSONAL_ACCESS_TOKEN&langs_count=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=)
+![Commit Summary](https://github-readme-stats.vercel.app/api/wakatime?username=douina-mouhamed&access_token=)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=&langs_count=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=&langs_count=5)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed)
 
