@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douina-mouhamed&label=Profile%20views&color=0e75b6&style=flat" alt="douina-mouhamed" /> </p>
 
 - 🔭 I’m currently working on **my internship.**
-
 - 🌱 I’m currently learning **mobile development (flutter & dart), C++.**
-
 - 📫 How to reach me **mouhamed.douina@epitech.eu or mdouina@ccei.fr**
-
 - ⚡ About me **Huge fan of racing and car enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,20 +16,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-    </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=)
-![Commit Summary](https://github-readme-stats.vercel.app/api/wakatime?username=douina-mouhamed&access_token=)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=&langs_count=5)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&access_token=&langs_count=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5&access_token=YOUR_PERSONAL_ACCESS_TOKEN)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed)
-
