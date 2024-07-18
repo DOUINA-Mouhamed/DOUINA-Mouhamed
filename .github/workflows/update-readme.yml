@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    paths:
+      - README.md
   workflow_dispatch:
 
 jobs:
@@ -16,8 +19,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          # Replace placeholders in README with actual token
-          sed -i "s/YOUR_PERSONAL_ACCESS_TOKEN/$GH_PAT/g" README.md
+          # Directly use the URLs, so this step is just a placeholder
+          echo "Generating stats"
 
       - name: Commit changes
         run: |
