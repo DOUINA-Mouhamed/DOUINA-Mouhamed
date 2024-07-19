@@ -37,8 +37,6 @@
 
 <h3 align="left">Statistics and activity:</h3>
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/douina-mouhamed/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-
 <div align="left">
     <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
