@@ -29,6 +29,8 @@
 
 <div align="center">
     <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
+    <br>
     <img src="https://github-readme-stats-bk18.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5" alt="Top Languages" />
 </div>
