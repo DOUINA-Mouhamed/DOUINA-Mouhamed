@@ -33,12 +33,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
     <br>-->
     <img src="https://github-readme-stats-bk18.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5" alt="Top Languages" />
-    <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
+    
 </div>
 
 <h3 align="left">Statistics and activity:</h3>
 
 <div align="left">
-    
+    <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=douina-mouhamed" alt="GitHub Streak" />
 </div>
