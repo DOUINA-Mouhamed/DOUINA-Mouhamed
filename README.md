@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats-bk18.vercel.app/api/top-langs/?username=douina-mouhamed&layout=compact&langs_count=5" alt="Top Languages" />
 </div>
 
-<h3 align="left">Activity and statistics:</h3>
+<h3 align="left">Statistics and activity:</h3>
 
 <div align="left">
     <img src="https://github-readme-stats-bk18.vercel.app/api?username=douina-mouhamed&show_icons=true&theme=default" alt="GitHub Stats" />
