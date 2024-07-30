@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douina-mouhamed&label=Profile%20views&color=0e75b6&style=flat" alt="douina-mouhamed" /> </p>
 
 - 🔭 I’m currently working on **my internship.**
-- 🌱 I’m currently learning **mobile development (flutter & dart), C++.**
-- 📫 How to reach me **mouhamed.douina@epitech.eu or mdouina@ccei.fr**
-- ⚡ About me **Huge fan of racing and car enthusiast.**
+- 🌱 I’m currently learning **mobile development (flutter & dart) and C++.**
+- 📫 How to reach me? **mouhamed.douina@epitech.eu or mdouina@ccei.fr**
+- ⚡ About me: **Huge fan of racing and car enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
