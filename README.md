@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my internship.**
 - 🌱 I’m currently learning **mobile development (flutter & dart) and C++.**
-- 📫 How to reach me? **mouhamed.douina@epitech.eu or mdouina@ccei.fr**
+- 📫 How to reach me? **mouhamed.douina@epitech.eu or moudouina@gmail.com **
 - ⚡ About me: **Huge fan of racing and car enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
