@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douina-mouhamed&label=Profile%20views&color=0e75b6&style=flat" alt="douina-mouhamed" /> </p>
 
-- 🔭 I’m currently working on **my internship.**
+- 🔭 I’m currently working on **my third Epitech year.**
 - 🌱 I’m currently learning **mobile development (flutter & dart) and C++.**
 - 📫 How to reach me? **mouhamed.douina@epitech.eu or moudouina@gmail.com**
 - ⚡ About me: **Huge fan of racing and car enthusiast.**
